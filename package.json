@@ -1,14 +1,14 @@
 {
-	"name": "react-native-select",
-	"version": "0.0.1",
-	"private": true,
+	"name": "react-native-select-input",
+	"version": "0.0.5",
+	"private": false,
 	"description": "Simple dropdown select input for react-native",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/gs-akhan/react-native-select.git"
+		"url": "git+https://github.com/bewestphal/react-native-select.git"
   	},
     "keywords": [
         "react-native",
@@ -18,11 +18,13 @@
         "ios",
         "android"
     ],
+    "files": [
+      "lib/",
+      "README.md",
+      "package.json"
+    ],
     "author": "Brian Westphal <coding@brianwestphal.com> (https://github.com/bewestphal)",
     "license": "MIT",
     "homepage": "https://github.com/bewestphal/react-native-select",
-    "main": "lib/index.js",
-	"devDependencies": {
-		"babel-preset-react-native": "2.0.0"
-	}
+    "main": "index.js"
 }
