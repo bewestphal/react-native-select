@@ -1,6 +1,8 @@
 # react-native-select
 A dead simple Select input for react native.
 
+### Installation
+npm install react-native-select-input
 
 ### Component Props
 | Name  | Description |
