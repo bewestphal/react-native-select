@@ -1,6 +1,6 @@
 {
 	"name": "react-native-select-input",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"private": false,
 	"description": "Simple dropdown select input for react-native",
 	"scripts": {
